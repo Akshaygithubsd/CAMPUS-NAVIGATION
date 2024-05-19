@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vector Map Compose sample</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_add_marker">AddMarkerActivity</string>
+    <string name="title_activity_add_polyline">AddPolylineActivity</string>
+    <string name="title_activity_add_gradiant_polyline">GradientPolylineActivity</string>
+    <string name="title_activity_add_semiCircle_polyline">SemiCirclePolylineActivity</string>
+    <string name="title_activity_add_snakeMotion_polyline">SnakeMotionPolylineActivity</string>
+    <string name="title_activity_add_polygon">PolygonActivity</string>
+    <string name="title_activity_map_click">MapClickActivity</string>
+    <string name="title_activity_heatmap">HeatmapActivity</string>
+    <string name="title_activity_indoor">IndoorActivity</string>
+    <string name="title_activity_scalebar">ScalebarActivity</string>
+    <string name="title_activity_cameraFeatures">CameraFeaturesActivity</string>
+    <string name="title_activity_location_camera_option">LocationCameraOptionActivity</string>
+    <string name="title_activity_mapple_pin_camera_feature">MapplePinCameraFeatureActivity</string>
+</resources>
